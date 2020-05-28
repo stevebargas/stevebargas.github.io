@@ -13,10 +13,9 @@ html {
   
 
 h1 {
-    /* text-align: center; */
-    margin-top: 20vh;
+    margin: 2rem 0 0 2rem;
     font-size: calc(5rem + 10vw);
-    line-height: 1;
+    line-height: 0.85;
     color: #1d1d1d;
 }
 
