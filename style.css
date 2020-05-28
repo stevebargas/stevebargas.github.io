@@ -3,11 +3,19 @@
     font-family: neue-haas-grotesk-display, sans-serif;
 
 }
+html {
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    font-family: acumin-pro, sans-serif;
+  }
+  
 
-
-h1{
-    text-align:center;
-    height: 50vh;
+h1 {
+    /* text-align: center; */
+    margin-top: 20vh;
+    font-size: calc(5rem + 10vw);
+    line-height: 1;
 }
-
 
